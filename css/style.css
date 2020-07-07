@@ -28,6 +28,8 @@ table {
   border-spacing: 0;
 }
 
+
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
@@ -270,7 +272,7 @@ h2.bnr-sub-title-inner{
 .gator{
 	height: 250px;
 	width: 279px;
-	background:url("../img/Gator-Logo.svg") no-repeat;
+	background:url("../img/ds.svg") no-repeat;
 	float:right;
 	margin-top: 0px;
 }
